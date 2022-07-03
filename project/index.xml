@@ -43,12 +43,12 @@
     </item>
     
     <item>
-      <title>Multifractal Analysis</title>
+      <title>Innovative GDL models for anomaly detection</title>
       <link>https://ignaciosd.github.io/project/multifractal-analysis/</link>
       <pubDate>Sun, 25 Oct 2020 19:58:09 -0500</pubDate>
       <guid>https://ignaciosd.github.io/project/multifractal-analysis/</guid>
-      <description>&lt;p&gt;We investigate flexible methodologies to better detect, and correctly model, hidden local trends in time series at different scales. The performance of our methods is assessed with extensive numerical experiments on benchmarks, but also is used to detect and characterize the scalar properties of the daily precipitation time series in meteorological stations of tropical regions.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;UG - UTDallas&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The ultimate goal of the project is to develop efficient, systematic, and reliable learning mechanisms for the onboard exploration by explicitly integrating both space and time dimensions into the knowledge representation at multiple spectral and spatial resolutions; using radiance data from NASA’s satellites, Topological and Geometric Machine Learning methods, and High-End Computing (HEC) systems.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;UTDallas - NASA-JPL&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
